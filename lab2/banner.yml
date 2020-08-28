@@ -5,7 +5,7 @@
   gather_facts: no
 
   vars:
-    banner_message: Sirius Immersion Days are Super Fun and Cool!!!!
+    banner_message: Something. something, something something
 
   tasks:
   - name: "Update banner message to '{{ banner_message }}'"
